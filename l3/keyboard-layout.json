@@ -18,11 +18,14 @@
     },
     "U\n7\n\n&\n\n\n\n\n\npgup",
     "I\n8\n\n*\n\n\n\n\n\nup",
-    "O\n9\n\n(\n\n\n\n\n\npgdn",
     {
-      "t": "#000000\n#c27600\n\n#ff2e00"
+      "t": "#000000\n#c27600\n\n\n\n\n\n\n\n#110fff"
     },
-    "P\n0\n\n)",
+    "O\n9\n\n\n\n\n\n\n\npgdn",
+    {
+      "t": "#000000\n#c27600"
+    },
+    "P\n0",
     {
       "t": "#000000"
     },
