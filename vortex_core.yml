@@ -1,0 +1,17 @@
+---
+- name: Running the Vortex Keyboard support ansible playbook...
+  hosts: localhost
+  tasks:
+    - name: Fix backslash and pipe on AltGr+# in ~/.bashrc
+      # https://wiki.archlinux.org/index.php/Xorg/Keyboard_configuration#Switching_state_immediately_when_Caps_Lock_is_pressed
+      lineinfile:
+        path: ~/.bashrc
+        line: 'xkbcomp -w 0 {{playbook_dir}}/xkbmap $DISPLAY'
+        state: present
+      tags:
+        - vortex
+
+    - name: Update keymap now.
+      command: 'xkbcomp -w 0 xkbmap $DISPLAY'
+      tags:
+        - vortex

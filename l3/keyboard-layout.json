@@ -1,0 +1,131 @@
+[
+  [
+    "Esc",
+    {
+      "t": "#000000\n#c27600\n\n#ff2e00\n\n\n\n\n\n#110fff"
+    },
+    "Q\n1\n\n!\n\n\n\n\n\nvol-",
+    "W\n2\n\n\"\n\n\n\n\n\nvol+",
+    "E\n3\n\n£\n\n\n\n\n\nmute",
+    {
+      "t": "#000000\n#c27600\n\n#ff2e00"
+    },
+    "R\n4\n\n$",
+    "T\n5\n\n%",
+    "Y\n6\n\n^",
+    {
+      "t": "#000000\n#c27600\n\n#ff2e00\n\n\n\n\n\n#110fff"
+    },
+    "U\n7\n\n&\n\n\n\n\n\npgup",
+    "I\n8\n\n*\n\n\n\n\n\nup",
+    "O\n9\n\n(\n\n\n\n\n\npgdn",
+    {
+      "t": "#000000\n#c27600\n\n#ff2e00"
+    },
+    "P\n0\n\n)",
+    {
+      "t": "#000000"
+    },
+    "Del",
+    "Back\n\n\n\n\n\nspace"
+  ],
+  [
+    {
+      "w": 1.25
+    },
+    "Tab",
+    {
+      "t": "#000000\n#c27600\n\n#ff2e00\n\n\n\n\n\n#110fff"
+    },
+    "A\n1\n\n{\n\n\n\n\n\nrwd",
+    "S\n2\n\n[\n\n\n\n\n\nplay",
+    "D\n3\n\n(\n\n\n\n\n\nfwd",
+    {
+      "t": "#000000\n#c27600\n\n#ff2e00"
+    },
+    "F\n4\n\n-",
+    "G\n5\n\n`",
+    {
+      "t": "#000000\n#c27600\n\n#ff2e00\n\n\n\n\n\n#110fff"
+    },
+    "H\n6\n\n#\n\n\n\n\n\nhome",
+    "J\n7\n\n_\n\n\n\n\n\nleft",
+    "K\n8\n\n)\n\n\n\n\n\ndown",
+    "L\n9\n\n]\n\n\n\n\n\nright",
+    ";\n0\n:\n}\n\n\n\n\n\nend",
+    {
+      "t": "#000000",
+      "w": 1.75
+    },
+    "Enter"
+  ],
+  [
+    {
+      "w": 1.75
+    },
+    "Shift",
+    {
+      "t": "#000000\n#c27600\n\n#ff2e00"
+    },
+    "Z\nF1\n\n@",
+    "X\nF2\n\n+",
+    "C\nF3\n\n\\",
+    "V\nF4\n\n|",
+    "B\nF5\n\n'",
+    {
+      "t": "#000000\n#c27600\n\n#ff2e00\n\n\n\n\n\n#110fff"
+    },
+    "N\nF6\n\n~\n\n\n\n\n\nend",
+    {
+      "t": "#000000\n#c27600\n\n#ff2e00"
+    },
+    "M\nF7\n\n/",
+    ",\nF8\n<\n=",
+    ".\nF9\n>\n#",
+    {
+      "t": "#000000",
+      "w": 1.25
+    },
+    "Shift",
+    {
+      "t": "#ff2e00"
+    },
+    "Fn1"
+  ],
+  [
+    {
+      "t": "#000000",
+      "w": 1.25
+    },
+    "Ctrl",
+    "Super",
+    "Alt",
+    {
+      "t": "#c27600"
+    },
+    "Pn",
+    {
+      "t": "#ff2e00",
+      "w": 1.75
+    },
+    "Fn1",
+    {
+      "t": "#000000",
+      "w": 2.75
+    },
+    "Space",
+    {
+      "t": "#110fff"
+    },
+    "Fn",
+    {
+      "t": "#000000"
+    },
+    "AltGr",
+    "Menu",
+    {
+      "w": 1.25
+    },
+    "Ctrl"
+  ]
+]
